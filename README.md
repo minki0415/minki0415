@@ -9,15 +9,14 @@
 
 <br>
 
-## 👀 About me
-<a href="https://fragrant-nail-ad6.notion.site/Minki-s-Blog-46b2ca76966447ac8eee24e0033ec4d6"><img src="https://img.shields.io/badge/Notion-100000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-</p>
+## 👀 About me & 📫Contact me
+<a href="https://fragrant-nail-ad6.notion.site/Minki-s-Blog-46b2ca76966447ac8eee24e0033ec4d6"><img src="https://img.shields.io/badge/Notion-100000?style=for-the-badge&logo=Notion&logoColor=white"/></a> &nbsp;&nbsp;
+<a href="mailto:minki5050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br>
 
 ## ✨Latest Projects
-[web-miniproject](https://github.com/minki0415/web-miniproject)
-
+[web-miniproject](https://github.com/minki0415/web-miniproject)&nbsp;&nbsp;
 [todoWeb](https://github.com/minki0415/todoWeb)
 
 <br>
@@ -36,12 +35,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
 </p>
 
-<br>
-
-## 📫 Connect with me
-<p>
-<a href="mailto:minki5050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 <br>
 
