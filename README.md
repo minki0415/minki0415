@@ -9,20 +9,20 @@
 
 <br>
 
-### 👀 About me
+## 👀 About me
 <a href="https://fragrant-nail-ad6.notion.site/Minki-s-Blog-46b2ca76966447ac8eee24e0033ec4d6"><img src="https://img.shields.io/badge/Notion-100000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </p>
 
 <br>
 
-### ✨Latest Projects
+## ✨Latest Projects
 [web-miniproject](https://github.com/minki0415/web-miniproject)
 
 [todoWeb](https://github.com/minki0415/todoWeb)
 
 <br>
 
-### 🛠Technical Stacks🛠
+## 🛠Technical Stacks🛠
 
 <p>
 <img src="https://img.shields.io/badge/Java-007396?&style=flat-square&logo=java&logoColor=white"/> 
@@ -38,14 +38,14 @@
 
 <br>
 
-### 📫 Connect with me
+## 📫 Connect with me
 <p>
 <a href="mailto:minki5050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <br>
 
-### 📈 Status bar
+## 📈 Status bar
 <img src="https://github-readme-stats.vercel.app/api?username=minki0415&layout=compact&show_icons=true&theme=vue&hide_border=true"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minki0415&layout=compact&theme=vue&hide_border=true" >
 </div>
