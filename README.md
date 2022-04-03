@@ -11,12 +11,13 @@
 
 ## 👀 About me & 📫Contact me
 <a href="https://fragrant-nail-ad6.notion.site/Minki-s-Blog-46b2ca76966447ac8eee24e0033ec4d6"><img src="https://img.shields.io/badge/Notion-100000?style=for-the-badge&logo=Notion&logoColor=white"/></a> &nbsp;&nbsp;
+<a href="https://minki0415.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-9B9B9B?style=for-the-badge&logo=GitHub&logoColor=white"/></a> &nbsp;&nbsp;
 <a href="mailto:minki5050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br>
 
 ## ✨Latest Projects
-[stock-simulator] (https://github.com/minki0415/stock-simulator)&nbsp;&nbsp;
+[stock-simulator](https://github.com/minki0415/stock-simulator)&nbsp;&nbsp;
 [bookOrderApp-React](https://github.com/minki0415/bookOrderApp-React.git)&nbsp;&nbsp;
 [web-miniproject](https://github.com/minki0415/web-miniproject)&nbsp;&nbsp;
 [todoWeb](https://github.com/minki0415/todoWeb)
