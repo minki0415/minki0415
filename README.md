@@ -45,6 +45,6 @@
 
 ## 📈 Status bar
 <img src="https://github-readme-stats.vercel.app/api?username=minki0415&layout=compact&show_icons=true&theme=vue&hide_border=true"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minki0415&layout=compact&theme=vue&hide_border=true" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minki0415&layout=compact&theme=vue&hide_border=true&hide=jupyter%20notebook" >
 </div>
 
