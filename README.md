@@ -1,11 +1,11 @@
 <div align="left">
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-😀I am Minki, My major is Industrial Engineering.
+😀 I am Minki, My major is Industrial Engineering.
 
   
-✍I studied Data Analysis such as Machine Learning and Deep Learning, <br>
-  and now I'm studying backend and frontend development.
+✍ I studied Software Engineering and now I'm working as a Saas developer. <br>
+
 
 <br>
 
